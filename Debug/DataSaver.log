@@ -1,0 +1,159 @@
+﻿  stdafx.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(62): warning C4091: “typedef ”: 没有声明变量时忽略“diskVolume”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(72): warning C4091: “typedef ”: 没有声明变量时忽略“diskInfor”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(80): warning C4091: “typedef ”: 没有声明变量时忽略“partitionInfor”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(87): warning C4091: “typedef ”: 没有声明变量时忽略“runlistData”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(93): warning C4091: “typedef ”: 没有声明变量时忽略“MFT30h”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(101): warning C4091: “typedef ”: 没有声明变量时忽略“MFT80h”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(106): warning C4091: “typedef ”: 没有声明变量时忽略“MFTB0h”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(112): warning C4091: “typedef ”: 没有声明变量时忽略“NTFSDirectory”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(119): warning C4091: “typedef ”: 没有声明变量时忽略“NTFSFile”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(127): warning C4091: “typedef ”: 没有声明变量时忽略“ExFatFolder”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(133): warning C4091: “typedef ”: 没有声明变量时忽略“DirectoryMap”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(138): warning C4091: “typedef ”: 没有声明变量时忽略“DirectoryQueueNode”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(145): warning C4091: “typedef ”: 没有声明变量时忽略“DirectoryRestoreQueue”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(152): warning C4091: “typedef ”: 没有声明变量时忽略“extFatDirectoryRestoreQueue”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(163): warning C4091: “typedef ”: 没有声明变量时忽略“ExFatBPB”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(173): warning C4091: “typedef ”: 没有声明变量时忽略“ExFatFile”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(179): warning C4091: “typedef ”: 没有声明变量时忽略“ExFATDirectoryQueueNode”的左侧
+d:\programdesign\visualstudio\datasaver\datasaver\stdafx.h(185): warning C4091: “typedef ”: 没有声明变量时忽略“ExFATDirectoryMap”的左侧
+  NTFSFunction.cpp
+  ExFATFunction.cpp
+d:\programdesign\visualstudio\datasaver\datasaver\exfatfunction.cpp(31): warning C4244: “初始化”: 从“unsigned __int64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\exfatfunction.cpp(38): warning C4244: “=”: 从“unsigned __int64”转换到“UINT32”，可能丢失数据
+  DiskFunction.cpp
+d:\programdesign\visualstudio\datasaver\datasaver\diskfunction.cpp(187): warning C4244: “=”: 从“unsigned __int64”转换到“DWORD”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\diskfunction.cpp(195): warning C4244: “=”: 从“unsigned __int64”转换到“DWORD”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\diskfunction.cpp(285): warning C4244: “=”: 从“unsigned __int64”转换到“DWORD32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\diskfunction.cpp(302): warning C4244: “=”: 从“unsigned __int64”转换到“DWORD32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\diskfunction.cpp(274): warning C4101: “dwRunBytes”: 未引用的局部变量
+d:\programdesign\visualstudio\datasaver\datasaver\diskfunction.cpp(507): warning C4244: “初始化”: 从“unsigned __int64”转换到“WORD”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\diskfunction.cpp(513): warning C4244: “=”: 从“unsigned __int64”转换到“WORD”，可能丢失数据
+  DataSaverDlg.cpp
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(293): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(298): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(300): warning C4244: “=”: 从“unsigned __int64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(301): warning C4244: “=”: 从“unsigned __int64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(302): warning C4244: “=”: 从“unsigned __int64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(303): warning C4244: “=”: 从“unsigned __int64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(313): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(315): warning C4244: “=”: 从“UINT64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(320): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(331): warning C4244: “初始化”: 从“unsigned __int64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(344): warning C4244: “=”: 从“unsigned __int64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(369): warning C4244: “=”: 从“unsigned __int64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(393): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(395): warning C4244: “=”: 从“UINT64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(399): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(407): warning C4244: “初始化”: 从“unsigned __int64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(415): warning C4244: “=”: 从“unsigned __int64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(434): warning C4244: “=”: 从“unsigned __int64”转换到“UINT32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(459): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(484): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(518): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(539): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(619): warning C4101: “sz1”: 未引用的局部变量
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(712): warning C4101: “dwtype”: 未引用的局部变量
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(711): warning C4101: “sz”: 未引用的局部变量
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(710): warning C4101: “hkey”: 未引用的局部变量
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(738): warning C4805: “==”: 在操作中将类型“boolean”与类型“bool”混合不安全
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(782): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(784): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(801): warning C4244: “=”: 从“unsigned __int64”转换到“int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(814): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(823): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(825): warning C4244: “+=”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(890): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(962): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(974): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(983): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(986): warning C4244: “参数”: 从“unsigned __int64”转换到“DWORD32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(990): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1002): warning C4244: “初始化”: 从“unsigned __int64”转换到“DWORD32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1017): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1025): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1033): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1041): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1051): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1053): warning C4244: “参数”: 从“unsigned __int64”转换到“DWORD32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1056): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1068): warning C4244: “初始化”: 从“unsigned __int64”转换到“DWORD32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1081): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1088): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1094): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1100): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1116): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1126): warning C4244: “参数”: 从“unsigned __int64”转换到“DWORD_PTR”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1139): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1139): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1142): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1144): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1148): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1151): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1151): warning C4244: “参数”: 从“unsigned __int64”转换到“DWORD_PTR”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1155): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1171): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1195): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1225): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1238): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1258): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1278): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1310): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1334): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1389): warning C4244: “参数”: 从“unsigned __int64”转换到“DWORD32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1415): warning C4244: “参数”: 从“unsigned __int64”转换到“std::size_t”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1447): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1450): warning C4244: “初始化”: 从“unsigned __int64”转换到“DWORD32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1457): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1469): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1481): warning C4244: “参数”: 从“DWORD64”转换到“std::size_t”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1496): warning C4244: “参数”: 从“unsigned __int64”转换到“DWORD32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1506): warning C4244: “参数”: 从“unsigned __int64”转换到“std::size_t”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1521): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1524): warning C4244: “初始化”: 从“unsigned __int64”转换到“DWORD32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1531): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1543): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1555): warning C4244: “参数”: 从“DWORD64”转换到“std::size_t”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1473): warning C4101: “k”: 未引用的局部变量
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1547): warning C4101: “k”: 未引用的局部变量
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1598): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1614): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1634): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1650): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1729): warning C4244: “初始化”: 从“UINT64”转换到“DWORD32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1740): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1751): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1763): warning C4244: “参数”: 从“DWORD64”转换到“std::size_t”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1784): warning C4244: “初始化”: 从“UINT64”转换到“DWORD32”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1791): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1801): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1813): warning C4244: “参数”: 从“DWORD64”转换到“std::size_t”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1686): warning C4101: “diskSector”: 未引用的局部变量
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1685): warning C4101: “i_start”: 未引用的局部变量
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1755): warning C4101: “k”: 未引用的局部变量
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1805): warning C4101: “k”: 未引用的局部变量
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1861): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1866): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1885): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1889): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1920): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1920): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1922): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1925): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1925): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1929): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1944): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1944): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1946): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1948): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1948): warning C4018: “<”: 有符号/无符号不匹配
+d:\programdesign\visualstudio\datasaver\datasaver\datasaverdlg.cpp(1952): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  DataSaver.cpp
+  BmpButton.cpp
+  BitmapDialog.cpp
+  About.cpp
+  正在生成代码...
+  DataSaver.vcxproj -> D:\ProgramDesign\VisualStudio\DataSaver\Debug\DataSaver.exe
+  DataSaver.vcxproj -> D:\ProgramDesign\VisualStudio\DataSaver\Debug\DataSaver.pdb (Full PDB)
